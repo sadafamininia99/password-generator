@@ -48,6 +48,14 @@ h2{
     word-wrap: break-word;
     max-width: calc(100% -40px);
 }
+.result-container .btn {
+    position: absolute;
+    top:5px;
+    right: 5px;
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+}
 .btn{
     border: none;
     background-color: #3b3b98;
@@ -55,6 +63,12 @@ h2{
     font-size: 16px;
     padding: 8px 12px;
     cursor: pointer;
+
+}
+.btn-large{
+    display: block;
+
+    width: 100%;
 }
 
 
