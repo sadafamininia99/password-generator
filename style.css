@@ -29,7 +29,20 @@ h2{
     padding: 20px;
     width: 350px;
     max-width: 100%;
-    
-}
 
+}
+.result-container{
+    background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+    font-size: 18px;
+    letter-spacing: 1px; 
+    padding: 12px 10px;
+    height: 50px;
+    width: 100%;
+
+}
+.result 
 
