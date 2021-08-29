@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: #da78f3; 
+    background-color: #38064498; 
     color: #fff;
     font-family: 'Muli',sans-serif;
     display: flex;
@@ -65,10 +65,15 @@ h2{
     cursor: pointer;
 
 }
-.btn-large{
-    display: block;
-
-    width: 100%;
+.btn-large {
+  display: block;
+  width: 100%;
 }
 
+.setting {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 0;
+}
 
