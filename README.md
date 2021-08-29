@@ -1,2 +1,7 @@
 # password-generator
-pass generator that includes copy and paste pass by user..
+
+generate password by user (5 to 20 character)
+
+
+
+
